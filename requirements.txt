@@ -1,0 +1,5 @@
+selenium==4.4.3
+pyTelegramBotAPI==4.7.0
+2captcha-python==1.1.2
+schedule==1.1.0
+pytz==2022.4
